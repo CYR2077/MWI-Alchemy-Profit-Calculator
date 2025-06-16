@@ -4,8 +4,8 @@
 
 ##  依赖说明
 
-> **🚨 重要提醒**：本脚本依赖于[[银河奶牛]自动计算购买材料](链接地址)，请先安装该脚本。<br>
-> **🚨 Important Notice**: This script depends on [MWI-AutoBuyer](链接地址). Please install that first.
+> **🚨 重要提醒**：本脚本依赖于[[银河奶牛]自动计算购买材料](https://github.com/CYR2077/MWI-AutoBuyer)，请先安装该脚本。<br>
+> **🚨 Important Notice**: This script depends on [MWI-AutoBuyer](https://github.com/CYR2077/MWI-AutoBuyer). Please install that first.
 
 
 ---
