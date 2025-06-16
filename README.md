@@ -4,12 +4,7 @@
 
 ##  依赖说明
 
-<<<<<<< HEAD
 > **🚨 重要提醒**：本脚本依赖于[[银河奶牛]自动计算购买材料](链接地址)，请先安装该脚本。<br>
-=======
-> **🚨 重要提醒**：本脚本依赖于[[银河奶牛]自动计算购买材料](链接地址)，请先安装该脚本。
->>>>>>> 8ef3847ea317532d762e3501f9c6f136ea79d338
->
 > **🚨 Important Notice**: This script depends on [MWI-AutoBuyer](链接地址). Please install that first.
 
 
