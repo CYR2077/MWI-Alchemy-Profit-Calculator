@@ -3,20 +3,24 @@
 // @name:zh-CN   [银河奶牛]炼金利润计算器
 // @name:en      MWI-Alchemy Profit Calculator
 // @namespace    http://tampermonkey.net/
-// @version      0.9.0
+// @version      0.9.1
 // @description  炼金利润计算器，显示悲观和乐观日利润 / Alchemy profit calculator showing pessimistic and optimistic daily profits
+// @description:zh-CN 炼金利润计算器，显示悲观和乐观日利润
+// @description:en Alchemy profit calculator showing pessimistic and optimistic daily profits
 // @author       XIxixi297
 // @license      CC-BY-NC-SA-4.0
 // @match        https://www.milkywayidle.com/*
 // @match        https://test.milkywayidle.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=milkywayidle.com
 // @grant        none
+// @downloadURL https://update.greasyfork.org/scripts/539636/%5B%E9%93%B6%E6%B2%B3%E5%A5%B6%E7%89%9B%5D%E7%82%BC%E9%87%91%E5%88%A9%E6%B6%A6%E8%AE%A1%E7%AE%97%E5%99%A8.user.js
+// @updateURL https://update.greasyfork.org/scripts/539636/%5B%E9%93%B6%E6%B2%B3%E5%A5%B6%E7%89%9B%5D%E7%82%BC%E9%87%91%E5%88%A9%E6%B6%A6%E8%AE%A1%E7%AE%97%E5%99%A8.meta.js
 // ==/UserScript==
 
 (function () {
     'use strict';
 
-    // 国际化文本配置
+    // 文本配置
     const i18n = {
         zh: {
             pessimisticProfit: '悲观日利润',
