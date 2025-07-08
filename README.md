@@ -1,3 +1,6 @@
+⚠️ 本项目已合并入 [MWI-Production-Gathering-Enhanced]，请前往新仓库获取最新代码与更新：https://github.com/CYR2077/MWI-Production-Gathering-Enhanced
+---
+
 # 炼金利润计算器
 
 ---
